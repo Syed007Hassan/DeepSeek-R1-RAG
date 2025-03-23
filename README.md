@@ -1,5 +1,7 @@
 # DeepSeek-R1 RAG System
 
+![image](https://github.com/user-attachments/assets/4cb1143e-252a-4ff0-8384-420119eee4ab)
+
 A Retrieval-Augmented Generation (RAG) system built with DeepSeek-R1, Ollama, and Streamlit.
 
 ## Features
